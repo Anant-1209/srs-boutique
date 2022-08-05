@@ -335,8 +335,7 @@ footer{
 
 
     .main2 {
-         margin-left:69px ;
-        margin-right:89px ;
+         
         text-align: center;
     }
 
@@ -346,7 +345,7 @@ footer{
 
 
 }
-@media only screen and (max-width:1000px) {
+@media only screen and (max-width:900px) {
     #contact-us{
         flex-direction: column;
     }
@@ -359,5 +358,7 @@ footer{
         margin-right: 131px;
         justify-content:center ;
         align-items: c;
+        margin-left:69px ;
+        margin-right:89px ;
     }
 }
