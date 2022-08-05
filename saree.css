@@ -351,6 +351,8 @@ footer{
         /* max-height: fit-content; */
         margin-right: 131px;
         justify-content:center ;
-        align-items: c;
+        align-items: center;
+         margin-left:69px ;
+        margin-right:89px ;
     }
 }
